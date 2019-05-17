@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: David Acevedo
+    tagline: Enterprise Computer Support Specialist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: david@gw
+    phone: 917-714-9468
+    website: davidacevedo.info #do not add http://
+    linkedin: davidace
+    github: kemist
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@KemediaDev'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,11 +28,11 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
         level: Professional
+
+      - idiom: Latin
+        level: Read
 
     interests:
       - item: Climbing
